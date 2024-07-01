@@ -1,5 +1,5 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_ums512_1h10.mk
+    $(LOCAL_DIR)/twrp_RMX3261.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_ums512_1h10-eng
+    twrp_RMX3261-eng
